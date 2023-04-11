@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
                 SetupNavigation(
                     navController = navController,
                     sharedViewModel = sharedViewModel
+
                 )
             }
         }
